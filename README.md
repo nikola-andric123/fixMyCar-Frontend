@@ -1,50 +1,63 @@
-# Welcome to your Expo app 👋
+# 🚗 fixMyCar - React Native Social App for Car Troubleshooting
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**fixMyCar** is a mobile application built with **React Native** that connects car owners facing issues with their vehicles. The app serves as a social platform where users can share their car problems, view solutions posted by others, and receive real-time notifications when relevant issues are posted.
 
-## Get started
+The mobile frontend communicates with a Node.js backend and uses **JWT authentication** and **Expo push notifications** to deliver a seamless user experience.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 💡 Motivation & Inspiration
 
-2. Start the app
+Car issues are a common frustration for many people, and often the best help comes from someone who's been through the same problem. The idea behind **fixMyCar** is to create a social network specifically for car owners — a place where users can:
+- Post car issues they've encountered,
+- Share how they solved them,
+- Learn from others who experienced the same problems,
+- Receive helpful notifications when new, related posts are made.
 
-   ```bash
-   npx expo start
-   ```
+Whether it's a mysterious engine light or an odd sound from the wheels, **fixMyCar** aims to build a helpful community of shared experiences and solutions.
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🎯 App Functionalities
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+| Feature | Description |
+|--------|-------------|
+| 🔐 Register & Login | Users can create an account and sign in |
+| 🔑 JWT Auth | Secure API calls using JSON Web Tokens |
+| 🏠 View Posts | Browse a feed of car-related posts by all users |
+| ✍️ Create Post | Share a car issue or solution, including title and description |
+| 🧾 My Profile | View your profile and see all your posts |
+| 🔔 Notifications | Receive push notifications when someone adds a new post |
+| 📱 Save Push Token | Automatically saves your device’s Expo push token to receive alerts |
+| 🚗 Community Focus | Designed specifically around real car problems and user-generated solutions |
+| 🎨 App Themes | Four different colour schemes available to choose |
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🛠️ Tech Stack
 
-```bash
-npm run reset-project
-```
+| Technology | Role |
+|------------|------|
+| React Native (Expo) | Mobile development |
+| React Navigation | Navigation and routing |
+| AsyncStorage | Local token storage |
+| Expo Notifications | Push notification handling |
+| Firebase (via Expo) | Underlying push infrastructure |
+| JWT | Secure authentication |
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📁 Project Structure
+fixMyCar-App/
+│
+├── app/
+│ ├── (auth)/ # Tabs group for register and login screens
+│ ├── (tabs)/ # Home, create post, post details, profile screens
+│ 
+│
+├── assets/ # Images, icons
+├── lib/ # Helper functions
+├── constants/ # Color schemes, api
+├── context/ # Context providers
+└── app.json # Expo config
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
