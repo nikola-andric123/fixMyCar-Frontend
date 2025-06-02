@@ -67,7 +67,23 @@ fixMyCar-App/
 <img src="screenshots/Screenshot_2025-06-02-14-50-37-507_com.nikola_123.fixMyCar.jpg" width="300" alt="Home Screen"/>
 
 ### 🔐 Login Screen
-![Login Screen](screenshots/Screenshot_2025-06-02-14-51-17-883_com.nikola_123.fixMyCar.jpg)
+<img src="screenshots/Screenshot_2025-06-02-14-51-17-883_com.nikola_123.fixMyCar.jpg" width="300" alt="Login Screen"/>
 
 ### 🔐 Register Screen
-![Login Screen](screenshots/Screenshot_2025-06-02-14-51-21-909_com.nikola_123.fixMyCar.jpg)
+<img src="screenshots/Screenshot_2025-06-02-14-51-21-909_com.nikola_123.fixMyCar.jpg" width="300" alt="Login Screen"/>
+
+### ⚙️ Create Post Screen
+<img src="Screenshot_2025-06-02-14-50-49-049_com.nikola_123.fixMyCar" width="300" alt="Login Screen"/>
+
+### 🎨 Change Theme Screen
+<img src="Screenshot_2025-06-02-14-51-08-612_com.nikola_123.fixMyCar" width="300" alt="Login Screen"/>
+
+## 🧪 Future Improvements
+- Add like and comment functionalities for posts
+- Filtering/searching by car model or issue type
+- Issue categorization (engine, suspension, etc.)
+
+👨‍💻 Author
+Made with ❤️ by Nikola Andric
+
+This app is part of a learning and development process and demonstrates skills in React Native, RESTful APIs, JWT auth, NOde JS, little bit of MongoDB and real-world mobile app architecture. 
