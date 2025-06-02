@@ -73,10 +73,10 @@ fixMyCar-App/
 <img src="screenshots/Screenshot_2025-06-02-14-51-21-909_com.nikola_123.fixMyCar.jpg" width="300" alt="Login Screen"/>
 
 ### ⚙️ Create Post Screen
-<img src="screenshot_2025-06-02-14-50-49-049_com.nikola_123.fixMyCar.jpg" width="300" alt="Login Screen"/>
+<img src="screenshots/Screenshot_2025-06-02-14-50-49-049_com.nikola_123.fixMyCar.jpg" width="300" alt="Login Screen"/>
 
 ### 🎨 Change Theme Screen
-<img src="screenshot_2025-06-02-14-51-08-612_com.nikola_123.fixMyCar.jpg" width="300" alt="Login Screen"/>
+<img src="screenshots/Screenshot_2025-06-02-14-51-08-612_com.nikola_123.fixMyCar.jpg" width="300" alt="Login Screen"/>
 
 ## 🧪 Future Improvements
 - Add like and comment functionalities for posts
