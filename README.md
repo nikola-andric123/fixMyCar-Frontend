@@ -67,4 +67,4 @@ fixMyCar-App/
 ![Home Screen](screenshots/Screenshot_2025-06-02-14-50-37-507_com.nikola_123.fixMyCar.jpg)
 
 ### 🔐 Login Screen
-![Login Screen](assets/screenshots/login.png)
+![Login Screen](screenshots/Screenshot_2025-06-02-14-51-17-883_com.nikola_123.fixMyCar.jpg)
