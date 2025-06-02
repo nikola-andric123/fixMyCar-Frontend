@@ -64,7 +64,7 @@ fixMyCar-App/
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/Screenshot_2025-06-02-14-50-37-507_com.nikola_123.fixMyCar.jpg)
+<img src="screenshots/Screenshot_2025-06-02-14-50-37-507_com.nikola_123.fixMyCar.jpg" width="300" alt="Home Screen"/>
 
 ### 🔐 Login Screen
 ![Login Screen](screenshots/Screenshot_2025-06-02-14-51-17-883_com.nikola_123.fixMyCar.jpg)
