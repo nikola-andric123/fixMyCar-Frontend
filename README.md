@@ -83,7 +83,7 @@ fixMyCar-App/
 - Filtering/searching by car model or issue type
 - Issue categorization (engine, suspension, etc.)
 
-👨‍💻 Author
+## 👨‍💻 Author
 Made with ❤️ by Nikola Andric
 
 This app is part of a learning and development process and demonstrates skills in React Native, RESTful APIs, JWT auth, NOde JS, little bit of MongoDB and real-world mobile app architecture. 
