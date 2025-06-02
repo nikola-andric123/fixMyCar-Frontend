@@ -18,7 +18,6 @@ expo-env.d.ts
 *.key
 *.mobileprovision
 
-google-services.json
 /android
 /ios
 # Metro
